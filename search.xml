@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>狼人杀</title>
-    <url>/2021/11/09/%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
-    <content><![CDATA[<ol>
-<li>定义别人底牌一定是通过对面不会防范的点</li>
-<li>定义底牌需要双重信息，两种信息各自进行一定程度的延展，产生矛盾则定义底牌</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>推理，心理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2021/11/08/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -29,5 +17,17 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>狼人杀</title>
+    <url>/2021/11/09/%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
+    <content><![CDATA[<ol>
+<li>定义别人底牌一定是通过对面不会防范的点</li>
+<li>定义底牌需要双重信息，两种信息各自进行一定程度的延展，产生矛盾则定义底牌</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>推理，心理</tag>
+      </tags>
   </entry>
 </search>
