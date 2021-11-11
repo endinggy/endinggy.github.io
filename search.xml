@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/11/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>如何抿神</title>
+    <url>/2021/11/10/%E5%A6%82%E4%BD%95%E6%8A%BF%E7%A5%9E/</url>
+    <content><![CDATA[<p>神牌大致分为信息神和闭眼神。信息神因带有部分信息故易出现逻辑错误，日常发言中易被攻击成狼。</p>
 ]]></content>
+      <categories>
+        <category>狼人杀</category>
+      </categories>
+      <tags>
+        <tag>推理</tag>
+        <tag>心理</tag>
+      </tags>
   </entry>
   <entry>
     <title>如何界定坑位</title>
@@ -35,17 +30,22 @@
       </tags>
   </entry>
   <entry>
-    <title>如何抿神</title>
-    <url>/2021/11/10/%E5%A6%82%E4%BD%95%E6%8A%BF%E7%A5%9E/</url>
-    <content><![CDATA[<p>神牌大致分为信息神和闭眼神。信息神因带有部分信息故易出现逻辑错误，日常发言中易被攻击成狼。</p>
+    <title>Hello World</title>
+    <url>/2021/11/08/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <categories>
-        <category>狼人杀</category>
-      </categories>
-      <tags>
-        <tag>推理</tag>
-        <tag>心理</tag>
-      </tags>
   </entry>
   <entry>
     <title>如何判定不见面关系</title>
@@ -62,7 +62,7 @@
   </entry>
   <entry>
     <title>狼人杀精华</title>
-    <url>/2021/11/09/%E7%8B%BC%E4%BA%BA%E6%9D%80/</url>
+    <url>/2021/11/11/%E7%8B%BC%E4%BA%BA%E6%9D%80%E7%B2%BE%E5%8D%8E/</url>
     <content><![CDATA[<ol>
 <li>定义别人底牌一定是通过对面不会防范的点。逻辑永远有正反，假设你这次通过A逻辑定义了player x的身份。那么当x知道这点后就下次可能就会为此进行针对设计。比如打银水，第一层逻辑就是定义为好人，因为狼人打银水容易被毒，第二层逻辑就是狼人利用这点正大光明打银水，之后还能以第一层逻辑来表水，甚至可能因此找到女巫。除非很确定此人在第几层，否则不要轻易用逻辑来保好人。狼人会用逻辑来伪装成好人，但好人很少会用逻辑来伪装成狼人（除了钓鱼执法的神或素质极差的稀有物种如JY)。所以用逻辑找狼人比逻辑找好人来的更可靠，在别人不熟悉领域和不防范领域的逻辑要比别人有所意识的领域逻辑要来的更可靠。</li>
 </ol>
