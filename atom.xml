@@ -6,7 +6,7 @@
   <link href="https://endinggy.github.io/atom.xml" rel="self"/>
   
   <link href="https://endinggy.github.io/"/>
-  <updated>2021-11-11T07:11:55.514Z</updated>
+  <updated>2022-01-12T03:51:11.245Z</updated>
   <id>https://endinggy.github.io/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Xlnet扼要</title>
+    <link href="https://endinggy.github.io/2022/01/12/XLNet%E6%89%BC%E8%A6%81/"/>
+    <id>https://endinggy.github.io/2022/01/12/XLNet%E6%89%BC%E8%A6%81/</id>
+    <published>2022-01-12T03:40:44.000Z</published>
+    <updated>2022-01-12T03:51:11.245Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;BERT模型的不足之处:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;对于MASK词汇做独立性假设，在预测MASK词是不考虑这些词之间的联系。&lt;/li&gt;
+&lt;li&gt;输入长度固定，对于长文本的编码能力弱</summary>
+        
+      
+    
+    
+    
+    
+    <category term="NLP" scheme="https://endinggy.github.io/tags/NLP/"/>
+    
+    <category term="PTMs" scheme="https://endinggy.github.io/tags/PTMs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何构建人物画像</title>
+    <link href="https://endinggy.github.io/2022/01/12/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%BA%BA%E7%89%A9%E7%94%BB%E5%83%8F/"/>
+    <id>https://endinggy.github.io/2022/01/12/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%BA%BA%E7%89%A9%E7%94%BB%E5%83%8F/</id>
+    <published>2022-01-12T03:33:12.000Z</published>
+    <updated>2022-01-12T03:39:53.650Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;import numpy as np</summary>
+        
+      
+    
+    
+    
+    
+    <category term="人物画像" scheme="https://endinggy.github.io/tags/%E4%BA%BA%E7%89%A9%E7%94%BB%E5%83%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>狼人杀精华</title>
@@ -41,6 +92,27 @@
     <category term="推理" scheme="https://endinggy.github.io/tags/%E6%8E%A8%E7%90%86/"/>
     
     <category term="心理" scheme="https://endinggy.github.io/tags/%E5%BF%83%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://endinggy.github.io/2021/11/11/hello-world/"/>
+    <id>https://endinggy.github.io/2021/11/11/hello-world/</id>
+    <published>2021-11-11T06:31:27.367Z</published>
+    <updated>2021-11-11T06:31:27.367Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
@@ -104,7 +176,7 @@
     <link href="https://endinggy.github.io/2021/11/10/%E5%A6%82%E4%BD%95%E7%95%8C%E5%AE%9A%E5%9D%91%E4%BD%8D/"/>
     <id>https://endinggy.github.io/2021/11/10/%E5%A6%82%E4%BD%95%E7%95%8C%E5%AE%9A%E5%9D%91%E4%BD%8D/</id>
     <published>2021-11-10T07:39:58.000Z</published>
-    <updated>2021-11-10T08:10:05.689Z</updated>
+    <updated>2021-11-12T06:34:21.536Z</updated>
     
     
       
@@ -123,27 +195,6 @@
     <category term="推理" scheme="https://endinggy.github.io/tags/%E6%8E%A8%E7%90%86/"/>
     
     <category term="心理" scheme="https://endinggy.github.io/tags/%E5%BF%83%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://endinggy.github.io/2021/11/08/hello-world/"/>
-    <id>https://endinggy.github.io/2021/11/08/hello-world/</id>
-    <published>2021-11-08T08:43:29.552Z</published>
-    <updated>2021-11-11T06:31:27.367Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
